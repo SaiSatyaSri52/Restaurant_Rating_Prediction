@@ -1,0 +1,13 @@
+Export your environment’s dependencies by running in a terminal:
+
+pip freeze > requirements.txt
+
+Or manually list:
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+
